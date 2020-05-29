@@ -1,0 +1,14 @@
+url =http://demo.guru99.com/v1/
+urlNew=http://demo.automationtesting.in/Register.html
+password=kelvinsam
+setofData_ColumnNumber= 2
+fileName=inputData1_update.xlsx
+sheetName=Sheet2
+fileName_writer=inputData1_update.xlsx
+sheetName_writer=Sheet2
+http://demo.guru99.com/v1/
+http://demo.guru99.com/payment-gateway/cardnumber.php
+fileName_table=Test.xlsx
+sheetName_table=Sheet3
+
+http://demo.guru99.com/Agile_Project/Agi_V1/customer/MiniStatementInput.php
